@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rbfriends/static/css/main.02da5706.chunk.css",
+    "main.js": "/rbfriends/static/js/main.74afff52.chunk.js",
+    "main.js.map": "/rbfriends/static/js/main.74afff52.chunk.js.map",
+    "runtime-main.js": "/rbfriends/static/js/runtime-main.73b18ac4.js",
+    "runtime-main.js.map": "/rbfriends/static/js/runtime-main.73b18ac4.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/rbfriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/rbfriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/rbfriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/rbfriends/index.html",
+    "precache-manifest.c554ea348f882057057162860c30f9e1.js": "/rbfriends/precache-manifest.c554ea348f882057057162860c30f9e1.js",
+    "service-worker.js": "/rbfriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/rbfriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.02da5706.chunk.css.map": "/rbfriends/static/css/main.02da5706.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/rbfriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rbfriends/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b18ac4.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.02da5706.chunk.css",
+    "static/js/main.74afff52.chunk.js"
+  ]
+}
