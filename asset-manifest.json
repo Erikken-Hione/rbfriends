@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Erikken-Hione/rbfriends/static/css/main.f3f24d0f.chunk.css",
-    "main.js": "/Erikken-Hione/rbfriends/static/js/main.470de511.chunk.js",
-    "main.js.map": "/Erikken-Hione/rbfriends/static/js/main.470de511.chunk.js.map",
+    "main.js": "/Erikken-Hione/rbfriends/static/js/main.af92b722.chunk.js",
+    "main.js.map": "/Erikken-Hione/rbfriends/static/js/main.af92b722.chunk.js.map",
     "runtime-main.js": "/Erikken-Hione/rbfriends/static/js/runtime-main.a9b00a43.js",
     "runtime-main.js.map": "/Erikken-Hione/rbfriends/static/js/runtime-main.a9b00a43.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Erikken-Hione/rbfriends/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cab51068.chunk.js": "/Erikken-Hione/rbfriends/static/js/2.cab51068.chunk.js",
-    "static/js/2.cab51068.chunk.js.map": "/Erikken-Hione/rbfriends/static/js/2.cab51068.chunk.js.map",
+    "static/js/2.9b8112b6.chunk.js": "/Erikken-Hione/rbfriends/static/js/2.9b8112b6.chunk.js",
+    "static/js/2.9b8112b6.chunk.js.map": "/Erikken-Hione/rbfriends/static/js/2.9b8112b6.chunk.js.map",
     "index.html": "/Erikken-Hione/rbfriends/index.html",
-    "precache-manifest.f1e879c67dde86b5635aed13de9bfdeb.js": "/Erikken-Hione/rbfriends/precache-manifest.f1e879c67dde86b5635aed13de9bfdeb.js",
+    "precache-manifest.e654fffbfa7a623375d45b05e5601e77.js": "/Erikken-Hione/rbfriends/precache-manifest.e654fffbfa7a623375d45b05e5601e77.js",
     "service-worker.js": "/Erikken-Hione/rbfriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Erikken-Hione/rbfriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.f3f24d0f.chunk.css.map": "/Erikken-Hione/rbfriends/static/css/main.f3f24d0f.chunk.css.map",
-    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/Erikken-Hione/rbfriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/js/2.9b8112b6.chunk.js.LICENSE.txt": "/Erikken-Hione/rbfriends/static/js/2.9b8112b6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Erikken-Hione/rbfriends/static/media/SEGA.82e09f78.TTF"
   },
   "entrypoints": [
     "static/js/runtime-main.a9b00a43.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.cab51068.chunk.js",
+    "static/js/2.9b8112b6.chunk.js",
     "static/css/main.f3f24d0f.chunk.css",
-    "static/js/main.470de511.chunk.js"
+    "static/js/main.af92b722.chunk.js"
   ]
 }

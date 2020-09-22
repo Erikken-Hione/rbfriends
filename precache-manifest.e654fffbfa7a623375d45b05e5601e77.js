@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7598ae006157167e0735a22c68f44a10",
+    "revision": "9f040fef752e602e3c5f4920c61a8e59",
     "url": "/Erikken-Hione/rbfriends/index.html"
   },
   {
-    "revision": "abcf402c9619777cd68e",
+    "revision": "773a8340cb704f96b458",
     "url": "/Erikken-Hione/rbfriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "bf233b221deda58c6406",
+    "revision": "2bd0de9f605ec0123186",
     "url": "/Erikken-Hione/rbfriends/static/css/main.f3f24d0f.chunk.css"
   },
   {
-    "revision": "abcf402c9619777cd68e",
-    "url": "/Erikken-Hione/rbfriends/static/js/2.cab51068.chunk.js"
+    "revision": "773a8340cb704f96b458",
+    "url": "/Erikken-Hione/rbfriends/static/js/2.9b8112b6.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Erikken-Hione/rbfriends/static/js/2.cab51068.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/Erikken-Hione/rbfriends/static/js/2.9b8112b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf233b221deda58c6406",
-    "url": "/Erikken-Hione/rbfriends/static/js/main.470de511.chunk.js"
+    "revision": "2bd0de9f605ec0123186",
+    "url": "/Erikken-Hione/rbfriends/static/js/main.af92b722.chunk.js"
   },
   {
     "revision": "17b695e2c43ddc53a182",
