@@ -5,10 +5,17 @@ import App from './containers/App'
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import { robots } from './robots';
+import { Provider, connect } from 'react-redux';
+import { createStore } from 'redux';
+import { searchRobots} from './reducer.js';
+
+const store = createStore(searchRobots)
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  	<Provider store={store}>
+    	<App />
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );
